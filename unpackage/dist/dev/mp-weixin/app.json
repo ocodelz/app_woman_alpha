@@ -1,0 +1,64 @@
+{
+  "pages": [
+    "pages/login/login",
+    "pages/tabbar/purchaseOrLease/purchaseOrLease",
+    "pages/locationAddress/locationAddress",
+    "pages/probeConnection/probeConnection",
+    "pages/newShippingAddress/newShippingAddress",
+    "pages/myAddress/myAddress",
+    "pages/register/register",
+    "pages/moment/moment",
+    "pages/changePassword/changePassword",
+    "pages/evaluate/evaluate",
+    "pages/monitoringSettings/monitoringSettings",
+    "pages/pregnantWomanInformation/pregnantWomanInformation",
+    "pages/instructions/instructions",
+    "pages/search/search",
+    "pages/equipmentManagement/equipmentManagement",
+    "pages/guardianshipRecord/guardianshipRecord",
+    "pages/takeBloodPressure/takeBloodPressure",
+    "pages/productDetail/productDetail",
+    "pages/bloodGlucoseTest/bloodGlucoseTest",
+    "pages/fetalHeartRateMonitoring/fetalHeartRateMonitoring",
+    "pages/custodyOrHelp/custodyOrHelp",
+    "pages/tabbar/index/index",
+    "pages/productDetails/productDetails",
+    "pages/tabbar/pregnancyKnowledge/pregnancyKnowledge",
+    "pages/tabbar/user/user",
+    "pages/update/index",
+    "pages/download/download",
+    "pages/tabbar/msgCenter/msgCenter",
+    "pages/tabbar/maternityCircle/maternityCircle"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTitleText": "uni-app",
+    "backgroundColor": "#F8F8F8",
+    "navigationBarBackgroundColor": "#fc979f",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "color": "#000",
+    "selectedColor": "#fc979f",
+    "backgroundColor": "#fff",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/tabbar/purchaseOrLease/purchaseOrLease"
+      },
+      {
+        "pagePath": "pages/tabbar/index/index"
+      },
+      {
+        "pagePath": "pages/tabbar/msgCenter/msgCenter"
+      },
+      {
+        "pagePath": "pages/tabbar/user/user"
+      }
+    ]
+  },
+  "uniStatistics": {
+    "enable": true
+  },
+  "usingComponents": {}
+}

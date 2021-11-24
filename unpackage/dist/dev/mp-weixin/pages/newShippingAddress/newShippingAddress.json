@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "新建收货人",
+  "navigationBarBackgroundColor": "#fc979f",
+  "usingComponents": {
+    "u-input": "/node-modules/uview-ui/components/u-input/u-input",
+    "u-icon": "/node-modules/uview-ui/components/u-icon/u-icon",
+    "u-switch": "/node-modules/uview-ui/components/u-switch/u-switch",
+    "u-button": "/node-modules/uview-ui/components/u-button/u-button"
+  }
+}
